@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_563013_innovate.employee</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>x_563013_innovate.employee</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-17 19:45:47</sys_created_on>
+        <sys_id>5c47d70307012010bb6afd1e7c1ed01c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_563013_innovate.employee</sys_name>
+        <sys_package display_value="Innovate" source="x_563013_innovate">e8275b4307012010bb6afd1e7c1ed026</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Innovate">e8275b4307012010bb6afd1e7c1ed026</sys_scope>
+        <sys_update_name>sys_user_role_5c47d70307012010bb6afd1e7c1ed01c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-17 19:45:47</sys_updated_on>
+    </sys_user_role>
+</record_update>
